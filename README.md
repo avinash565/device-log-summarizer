@@ -53,7 +53,7 @@ device-log-summarizer/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/avinash565/device-log-summarizer
 ```
 
 ### 2. Navigate to the Project Directory
