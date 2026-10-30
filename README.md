@@ -78,9 +78,9 @@ python3 src/main.py
 
 This executes all three sections:
 
-1. Sensor Data Cleaning
-2. CSV Data Processing
-3. Data Visualization
+1. section1_cleaning.py
+2. section2_processing.py
+3. section3_visualization.py
 
 ## Run Unit Tests
 
